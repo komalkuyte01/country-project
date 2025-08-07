@@ -5,7 +5,7 @@ A responsive and interactive **Country Explorer** web application made using **H
 ## 🎯 Features
 
 - 🗺️ Browse all countries with their flags
-- 🔍 Click on any country to view:
+-   Click on any country to view:
   - Flag
   - Capital
   - Currency
@@ -18,7 +18,7 @@ A responsive and interactive **Country Explorer** web application made using **H
 - 📱 Responsive layout with clean UI
 - 🌙 Dark Mode icon (static design element)
 
-## 🚀 How to Use
+##  How to Use
 
 1. **Clone or download the repository**
    ```bash
