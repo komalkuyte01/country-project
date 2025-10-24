@@ -21,5 +21,5 @@ A responsive and interactive **Country Explorer** web application made using **H
 ##  How to Use
 
 1. **Clone or download the repository**
-   ```bash
-  https://github.com/komalkuyte01/country-project
+    https://github.com/komalkuyte01/country-project
+ 
